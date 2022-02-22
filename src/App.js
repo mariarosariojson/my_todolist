@@ -45,7 +45,7 @@ function removeTodo(id) {
   return (
     <div className="App">
       <Typography style={{ padding: 16 }} variant='h1'>
-        M Y N E W T O D O L I S T
+        M Y T O D O L I S T
       </Typography>
         <p>Today's agenda</p>
         <TodoForm addTodo={addTodo} />
